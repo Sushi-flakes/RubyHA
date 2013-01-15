@@ -2,7 +2,7 @@ require '.\Student.rb'
 
 studenten = Hash.new
 a = Student.new("Mustermann", "Max", 12345)
-b = Student.new("Sorglos", "Susi", 666)
+b = Student.new("Sorglos", "Susi", 66666)
 c = Student.new("Li", "Muhammed", 11880)
 
 o = Veranstaltung.new("Programmieren", "prg", "Bjoern Jensen")
